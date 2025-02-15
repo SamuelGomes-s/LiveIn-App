@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774912941589",
+    "project_id": "live-in-f45d1",
+    "storage_bucket": "live-in-f45d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774912941589:android:dcb444a55c0ff2d7e5381c",
+        "android_client_info": {
+          "package_name": "com.live_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9aAQYmfODE-px9muU9jq9fgC-k-8iqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
